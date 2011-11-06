@@ -1,0 +1,9 @@
+.bundle
+.rvmrc
+.DS_Store
+Gemfile.lock
+db/*.sqlite3
+db/schema.rb
+log/*.log
+tmp/
+local
